@@ -1,0 +1,11 @@
+Test Taken,Parameter,Value
+Blood Pressure,Systolic (mmHg),120
+Blood Pressure,Diastolic (mmHg),80
+Blood Sugar (Fasting),Glucose (mg/dL),95
+Blood Sugar (Post-Meal),Glucose (mg/dL),250
+Cholesterol,LDL (mg/dL),110
+Cholesterol,HDL (mg/dL),50
+Urine Test,pH Level,6.5
+Urine Test,Protein (mg/dL),Normal
+Kidney Function,Creatine (mg/dL),1.1
+Liver Function,ALT (U/L),25
